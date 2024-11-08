@@ -9,7 +9,7 @@ const Meio = ({ texto, titulo }) => {
       />
 
       
-      <p className="text-ellipsis overflow-hidden max-sm:text-[0.5em] max-md:text-[0.6em]  max-lg:text-[1em] ">{texto}</p>
+      <p className="text-ellipsis overflow-hidden max-h-[70%] max-sm:text-[0.5em] max-md:text-[0.6em]  max-lg:text-[1em] ">{texto}</p>
     </div>
   );
 };
