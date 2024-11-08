@@ -34,31 +34,31 @@ return (
 <h1 className="mt-[3vh] text-[5vw] max-lg:text-[5em] max-sm:text-[2em] font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#2e8b568d] to-[#008080] text-center">Colaboradores do Projeto</h1> 
 <div className="mt-[5vh] grid grid-cols-4 gap-y-1  gap-x-2  max-sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-sm:hover:gap-14 w-full h-[100%] bg-gradient-to-r from-[#2e8b561a] to-[#008080] justify-center items-center">
 
-<Creditos nome="Nicolas França Castro Rosa" funcao="Desenvolvedor do Site" funcao1="Planejamento inicial do Projeto" funcao2="Desenvolveu 10 E-Books" funcao3="Design Geral" imagem="src\img\WhatsApp Image 2024-06-08 at 21.41.41.jpeg" linkGIT="https://github.com/Nicolas-rosa" linkGMAIL="mailto:nicolasfrancacastrorosa@gmail.com?subject=Projeto+Extens%C3%A3o" linkLIN="www.linkedin.com/in/nicolas-rosa-dev"  />
+<Creditos nome="Nicolas França Castro Rosa" funcao="Desenvolvedor do Site" funcao1="Planejamento inicial do Projeto" funcao2="Desenvolveu 10 E-Books" funcao3="Design Geral" imagem="https://ibb.co/8xSqFZW" linkGIT="https://github.com/Nicolas-rosa" linkGMAIL="mailto:nicolasfrancacastrorosa@gmail.com?subject=Projeto+Extens%C3%A3o" linkLIN="www.linkedin.com/in/nicolas-rosa-dev"  />
 
  
-<Creditos nome="Camilla Marques Vieira de Morais" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book"  imagem="src\img\camilaM.jpg" linkGIT="https://github.com/kevellyangel" linkGMAIL="mailto:marxcamila00@gmail.com" linkLIN="https://www.linkedin.com/in/camila-marques-3b9248201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  />
+<Creditos nome="Camilla Marques Vieira de Morais" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book"  imagem="https://ibb.co/0sVYmWc" linkGIT="https://github.com/kevellyangel" linkGMAIL="mailto:marxcamila00@gmail.com" linkLIN="https://www.linkedin.com/in/camila-marques-3b9248201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  />
 
 
-<Creditos nome="Jonas Felipe D. S. Guimarães" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book" imagem="src\img\VoidF.jpg" linkGIT="https://github.com/Fellps-collab" linkGMAIL="mailto:jjonasffelipefogo@gmail.com" linkLIN="http://www.linkedin.com/in/felipe-dsguimar%C3%A3es"  />
+<Creditos nome="Jonas Felipe D. S. Guimarães" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book" imagem="https://ibb.co/2qgYJfn" linkGIT="https://github.com/Fellps-collab" linkGMAIL="mailto:jjonasffelipefogo@gmail.com" linkLIN="http://www.linkedin.com/in/felipe-dsguimar%C3%A3es"  />
 
 
-<Creditos nome="Rharyson Silva De Araújo" funcao="Desenvolveu 1 E-Book" imagem="src\img\AraujoR.jpg" linkGIT="https://github.com/RharysonSilva" linkGMAIL="mailto:rharysonsilva@gmail.com" linkLIN="https://www.linkedin.com/in/rharyson-silva-4b7332303/"  />
+<Creditos nome="Rharyson Silva De Araújo" funcao="Desenvolveu 1 E-Book" imagem="https://ibb.co/dkYDwTr" linkGIT="https://github.com/RharysonSilva" linkGMAIL="mailto:rharysonsilva@gmail.com" linkLIN="https://www.linkedin.com/in/rharyson-silva-4b7332303/"  />
 
 
-<Creditos nome="Kildey Ruan Leonez de Lima" funcao="Desenvolveu 1 E-Book" imagem="src\img\kildeyR.jpg" linkGIT="https://github.com/gKild" linkGMAIL="mailto:kildeyrllm@gmail.com" linkLIN="https://www.linkedin.com/in/o-kildey-ruan/"  />
+<Creditos nome="Kildey Ruan Leonez de Lima" funcao="Desenvolveu 1 E-Book" imagem="https://ibb.co/316RTMz" linkGIT="https://github.com/gKild" linkGMAIL="mailto:kildeyrllm@gmail.com" linkLIN="https://www.linkedin.com/in/o-kildey-ruan/"  />
 
 
 <Creditos nome="Ayrton Senna" funcao="Desenvolveu 1 E-Book" imagem="src\img\AirtonS.jpg" linkGIT="https://github.com/Ayrton1998" linkGMAIL="mailto:senninha764@gmail.com" linkLIN="https://www.linkedin.com/in/ayrton-senna-b67853335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"  />
 
 
-<Creditos nome="Johnathan Robert" funcao="Desenvolveu 1 E-Book" imagem="src\img\jonathan.jpeg" linkGIT="https://github.com/Jayz1n" linkGMAIL="mailto:johnathanjayjay123@gmail.com" linkLIN="https://www.linkedin.com/in/jayjay-undefined-0594a6337/"  />
+<Creditos nome="Johnathan Robert" funcao="Desenvolveu 1 E-Book" imagem="https://ibb.co/RcB2G3G" linkGIT="https://github.com/Jayz1n" linkGMAIL="mailto:johnathanjayjay123@gmail.com" linkLIN="https://www.linkedin.com/in/jayjay-undefined-0594a6337/"  />
 
 
-<Creditos nome="Samuel Dion" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book" imagem="src\img\dion.jpeg" linkGIT="https://github.com/Diondev10" linkGMAIL="mailto:conta.dev.1010@gmail.com" linkLIN="https://www.linkedin.com/in/samuel-dion-a71b26327"  />
+<Creditos nome="Samuel Dion" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book" imagem="https://ibb.co/wyhP3T6" linkGIT="https://github.com/Diondev10" linkGMAIL="mailto:conta.dev.1010@gmail.com" linkLIN="https://www.linkedin.com/in/samuel-dion-a71b26327"  />
 
 
-<Creditos nome="Enos Bezerra" funcao="Desenvolveu 1 E-Book" imagem="src\img\enos.jpeg" linkGIT="https://github.com/Enosbez" linkGMAIL="mailto:enosbezerra3@gmail.com" linkLIN="https://www.linkedin.com/in/enos-bezerra-5344841bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"  />
+<Creditos nome="Enos Bezerra" funcao="Desenvolveu 1 E-Book" imagem="https://ibb.co/dWQmKfg" linkGIT="https://github.com/Enosbez" linkGMAIL="mailto:enosbezerra3@gmail.com" linkLIN="https://www.linkedin.com/in/enos-bezerra-5344841bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"  />
 
 
 
