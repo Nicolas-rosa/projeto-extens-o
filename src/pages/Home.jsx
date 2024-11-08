@@ -35,9 +35,9 @@ vd="src\video\videoextensão.mp4"
 
 </div>
 
-            <Meio  texto = "Você é um pequeno empreendedor com grandes sonhos, mas sente que a tecnologia é um bicho de sete cabeças? Nós entendemos! Por isso, a turma de Análise e Desenvolvimento de Sistemas criou este site para oferecer a você uma oportunidade única: acesso gratuito a e-books completos sobre como usar a tecnologia para impulsionar o seu negócio." titulo = "Dê um salto no seu negócio!"/>
+            <Meio  texto = "Você é um pequeno empreendedor com grandes sonhos, mas sente que a tecnologia é um bicho de sete cabeças? Nós entendemos! Por isso, a turma de ADS criou este site. " titulo = "Dê um salto no seu negócio!"/>
             <Meio1 imagemSrc={"https://images.unsplash.com/photo-1594498257673-9f36b767286c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      } titulo={"Tecnologia para todos: Conhecimento gratuito para impulsionar seu negócio!"} texto="Acreditamos que o acesso à informação e à tecnologia deve ser para todos, especialmente para os pequenos empreendedores que buscam crescer e prosperar. Pensando nisso, a turma de Análise e Desenvolvimento de Sistemas criou este site com um objetivo simples: oferecer e-books gratuitos e de alta qualidade sobre como usar a tecnologia para alavancar seus negócios."/>
+      } titulo={"Tecnologia para todos: Conhecimento gratuito para impulsionar seu negócio!"} texto="Acreditamos que o acesso à informação e à tecnologia deve ser para todos, especialmente para os pequenos empreendedores."/>
            
 </div>
   );
