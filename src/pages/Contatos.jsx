@@ -37,7 +37,7 @@ return (
 <Creditos nome="Nicolas França Castro Rosa" funcao="Desenvolvedor do Site" funcao1="Planejamento inicial do Projeto" funcao2="Desenvolveu 10 E-Books" funcao3="Design Geral" imagem="https://i.ibb.co/X5v1mRh/Whats-App-Image-2024-06-08-at-21-41-41.jpg" linkGIT="https://github.com/Nicolas-rosa" linkGMAIL="mailto:nicolasfrancacastrorosa@gmail.com?subject=Projeto+Extens%C3%A3o" linkLIN="www.linkedin.com/in/nicolas-rosa-dev"  />
 
  
-<Creditos nome="Camilla Marques Vieira de Morais" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book"  imagem="https://i.ibb.co/rdf5FLm/camilaM.jpg"  linkGIT="https://github.com/kevellyangel" linkGMAIL="mailto:marxcamila00@gmail.com" linkLIN="https://www.linkedin.com/in/camila-marques-3b9248201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  />
+<Creditos nome="Camilla Marques Vieira de Morais" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 2 E-Book"  imagem="https://i.ibb.co/rdf5FLm/camilaM.jpg"  linkGIT="https://github.com/kevellyangel" linkGMAIL="mailto:marxcamila00@gmail.com" linkLIN="https://www.linkedin.com/in/camila-marques-3b9248201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  />
 
 
 <Creditos nome="Jonas Felipe D. S. Guimarães" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book" imagem="https://i.ibb.co/rk4f917/VoidF.jpg" linkGIT="https://github.com/Fellps-collab" linkGMAIL="mailto:jjonasffelipefogo@gmail.com" linkLIN="http://www.linkedin.com/in/felipe-dsguimar%C3%A3es"  />
