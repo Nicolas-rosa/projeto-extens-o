@@ -49,7 +49,7 @@ return (
 <Creditos nome="Kildey Ruan Leonez de Lima" funcao="Desenvolveu 1 E-Book" imagem="https://i.ibb.co/9nKZpVt/KildeyR.jpg" linkGIT="https://github.com/gKild" linkGMAIL="mailto:kildeyrllm@gmail.com" linkLIN="https://www.linkedin.com/in/o-kildey-ruan/"  />
 
 
-<Creditos nome="Ayrton Senna" funcao="Desenvolveu 1 E-Book" imagem="src\img\AirtonS.jpg" linkGIT="https://github.com/Ayrton1998" linkGMAIL="mailto:senninha764@gmail.com" linkLIN="https://www.linkedin.com/in/ayrton-senna-b67853335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"  />
+<Creditos nome="Ayrton Senna" funcao="Desenvolveu 1 E-Book" imagem="https://i.ibb.co/SwB4yQD/AirtonS.jpg" linkGIT="https://github.com/Ayrton1998" linkGMAIL="mailto:senninha764@gmail.com" linkLIN="https://www.linkedin.com/in/ayrton-senna-b67853335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"  />
 
 
 <Creditos nome="Johnathan Robert" funcao="Desenvolveu 1 E-Book" imagem="https://i.ibb.co/fHnMVkV/jonathan.jpg" linkGIT="https://github.com/Jayz1n" linkGMAIL="mailto:johnathanjayjay123@gmail.com" linkLIN="https://www.linkedin.com/in/jayjay-undefined-0594a6337/"  />
