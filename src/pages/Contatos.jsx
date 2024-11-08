@@ -24,7 +24,7 @@ return (
         className='ml-[3vw] mt-[1vh] h-[60vh] max-sm:max-h-[15vh] max-sm:max-w-[70%]'
       />} titulo = "Conheça a nossa Faculdade"/>
             <Meio1 imagemSrc={"https://images.unsplash.com/photo-1594498257673-9f36b767286c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      } titulo={"Tecnologia para Crescer: E-books gratuitos para impulsionar seu negócio."} texto="Acreditamos que a tecnologia é uma ferramenta poderosa para impulsionar o crescimento de pequenos negócios. Por isso, criamos este projeto para oferecer e-books gratuitos com conteúdo prático e estratégico, desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas. Nosso objetivo é democratizar o acesso à informação e ajudar empreendedores a utilizar a tecnologia a seu favor."/>
+      } titulo={"Tecnologia para Crescer: E-books gratuitos para impulsionar seu negócio."} texto="Acreditamos que a tecnologia é uma ferramenta poderosa para impulsionar o crescimento de pequenos negócios."/>
     
     <MeioVD 
   titulo="Conheça nosso trabalho" 
@@ -49,7 +49,7 @@ return (
 <Creditos nome="Kildey Ruan Leonez de Lima" funcao="Desenvolveu 1 E-Book" imagem="https://i.ibb.co/9nKZpVt/KildeyR.jpg" linkGIT="https://github.com/gKild" linkGMAIL="mailto:kildeyrllm@gmail.com" linkLIN="https://www.linkedin.com/in/o-kildey-ruan/"  />
 
 
-<Creditos nome="Ayrton Senna" funcao="Desenvolveu 1 E-Book" imagem="src\img\AirtonS.jpg" linkGIT="https://github.com/Ayrton1998" linkGMAIL="mailto:senninha764@gmail.com" linkLIN="https://www.linkedin.com/in/ayrton-senna-b67853335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"  />
+<Creditos nome="Ayrton Senna" funcao="Desenvolveu 1 E-Book" imagem="https://i.ibb.co/SwB4yQD/AirtonS.jpg" linkGIT="https://github.com/Ayrton1998" linkGMAIL="mailto:senninha764@gmail.com" linkLIN="https://www.linkedin.com/in/ayrton-senna-b67853335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"  />
 
 
 <Creditos nome="Johnathan Robert" funcao="Desenvolveu 1 E-Book" imagem="https://i.ibb.co/fHnMVkV/jonathan.jpg" linkGIT="https://github.com/Jayz1n" linkGMAIL="mailto:johnathanjayjay123@gmail.com" linkLIN="https://www.linkedin.com/in/jayjay-undefined-0594a6337/"  />
