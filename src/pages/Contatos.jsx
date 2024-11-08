@@ -34,7 +34,7 @@ return (
 <h1 className="mt-[3vh] text-[5vw] max-lg:text-[5em] max-sm:text-[2em] font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#2e8b568d] to-[#008080] text-center">Colaboradores do Projeto</h1> 
 <div className="mt-[5vh] grid grid-cols-4 gap-y-1  gap-x-2  max-sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 max-sm:hover:gap-14 w-full h-[100%] bg-gradient-to-r from-[#2e8b561a] to-[#008080] justify-center items-center">
 
-<Creditos nome="Nicolas França Castro Rosa" funcao="Desenvolvedor do Site" funcao1="Planejamento inicial do Projeto" funcao2="Desenvolveu 10 E-Books" funcao3="Design Geral" imagem="WhatsApp Image 2024-06-08 at 21.41.41.jpeg" linkGIT="https://github.com/Nicolas-rosa" linkGMAIL="mailto:nicolasfrancacastrorosa@gmail.com?subject=Projeto+Extens%C3%A3o" linkLIN="www.linkedin.com/in/nicolas-rosa-dev"  />
+<Creditos nome="Nicolas França Castro Rosa" funcao="Desenvolvedor do Site" funcao1="Planejamento inicial do Projeto" funcao2="Desenvolveu 10 E-Books" funcao3="Design Geral" imagem="src\img\WhatsApp Image 2024-06-08 at 21.41.41.jpeg" linkGIT="https://github.com/Nicolas-rosa" linkGMAIL="mailto:nicolasfrancacastrorosa@gmail.com?subject=Projeto+Extens%C3%A3o" linkLIN="www.linkedin.com/in/nicolas-rosa-dev"  />
 
  
 <Creditos nome="Camilla Marques Vieira de Morais" funcao="Planejamento inicial do Projeto" funcao2="Desenvolveu 1 E-Book"  imagem="src\img\camilaM.jpg" linkGIT="https://github.com/kevellyangel" linkGMAIL="mailto:marxcamila00@gmail.com" linkLIN="https://www.linkedin.com/in/camila-marques-3b9248201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  />
