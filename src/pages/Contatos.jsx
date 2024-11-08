@@ -23,7 +23,7 @@ return (
         tabIndex="0"
         className='ml-[3vw] mt-[1vh] h-[60vh] max-sm:max-h-[15vh] max-sm:max-w-[70%]'
       />} titulo = "Conheça a nossa Faculdade"/>
-            <Meio1 imagemSrc={"https://images.unsplash.com/photo-1594498257673-9f36b767286c?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            <Meio1 imagemSrc={"https://www.freepik.com/free-photo/book-headphones-with-blue-background_32879600.htm#fromView=search&page=1&position=47&uuid=a2c205d7-6bd5-4185-b18c-1035a8bca735"
       } titulo={"Tecnologia para Crescer: E-books gratuitos para impulsionar seu negócio."} texto="Acreditamos que a tecnologia é uma ferramenta poderosa para impulsionar o crescimento de pequenos negócios. Por isso, criamos este projeto para oferecer e-books gratuitos com conteúdo prático e estratégico."/>
     
     <MeioVD 
